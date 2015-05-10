@@ -1,0 +1,25 @@
+<Alloy>
+	<Window class="container" title="Ma Page d'event">
+		<TableView>
+			<TableViewSection>
+				<TableViewRow>
+					<View>
+						<ImageView id="img" image="default.png"/>
+					</View>
+				</TableViewRow>
+				<TableViewRow>
+					<View>
+						<Label text="Ma Page d'event"></Label>
+						<Button title="Exhibition"></Button>
+					</View>
+				</TableViewRow>
+				<TableViewRow>
+					<View>
+						<Label text="Ma Page d'event"></Label>
+						<Label text="Exhibition"></Label>
+					</View>
+				</TableViewRow>
+			</TableViewSection>
+		</TableView>
+	</Window>
+</Alloy>
